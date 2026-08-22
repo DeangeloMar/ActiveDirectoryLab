@@ -1,7 +1,6 @@
 <h1>Active Directory Lab</h1>
 
-Built a Windows Server domain controller and client environment in VirtualBox, configured DNS/NAT/DHCP, and automated bulk user provisioning with PowerShell.
-<br />
+This repository tracks my hands-on progression in Active Directory, building and troubleshooting real environments to strengthen my implementation skills and problem-solving ability.
 
 <!--
  ```diff
