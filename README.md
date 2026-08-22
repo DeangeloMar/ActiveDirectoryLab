@@ -1,6 +1,6 @@
 <h1>Active Directory Lab</h1>
 
-This repository tracks my hands-on progression in Active Directory, building and troubleshooting real environments to strengthen my implementation skills and problem-solving ability.
+This repository tracks my hands-on progression in Active Directory, building and troubleshooting real environments to strengthen my implementation and problem-solving ability.
 
 <!--
  ```diff
