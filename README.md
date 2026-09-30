@@ -1,4 +1,4 @@
-<h1>Active Directory Lab</h1>
+<h1>Active Directory Walkthrough</h1>
 
 This repository tracks my hands-on progression in Active Directory, building and troubleshooting real environments to strengthen my implementation and problem-solving ability.
 
