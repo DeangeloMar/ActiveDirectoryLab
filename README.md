@@ -1,8 +1,6 @@
 <h1>Active Directory Walkthrough</h1>
 
-This repository tracks my hands-on progression in Active Directory, building and troubleshooting real environments to strengthen my implementation and problem-solving ability.
-
-<!--
+I built a virtual machine, set up Active Directory, and practiced basic help desk tasks. This repo tracks what I did and what I learned.
  ```diff
 - text in red
 + text in green
