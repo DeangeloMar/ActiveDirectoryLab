@@ -38,8 +38,10 @@ navigate to the password tab the the box that says unloc account check mark ther
 
 <h2>Account Unlock</h2>
 
-Observe that the ticket now says resolved:  <br/>
+slect the user you would like to reset the passwoird for:  <br/>
 <img width="1917" height="1035" alt="image" src="https://github.com/user-attachments/assets/1dde36e9-48af-40c1-b5a4-d72a19ab601b" />
+rufht click the user then slect reset passwoird
 <img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/b84568d9-a2ce-4d18-85b6-26776abb0e34" />
+enter he new password slect okay
 <img width="1919" height="1036" alt="image" src="https://github.com/user-attachments/assets/e7796bc5-c82f-474c-986c-0e24da061943" />
 </p>
