@@ -4,7 +4,7 @@
 This guide walks through creating a new user account in Active Directory.
 <br />
 
-<p 
+<p>
   
 Click Start in the bottom-left corner of the screen: <br/>
 <img width="1919" height="1033" alt="image" src="https://github.com/user-attachments/assets/4dae6c66-ff53-49dd-9ca0-8143c57f9549" />
