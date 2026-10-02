@@ -6,14 +6,15 @@ This is a step-by-step guide for unlocking user accounts and resetting passwords
 <p>
 <h2>Account Unlock</h2>
 
-
+Click Start in the bottom-left corner of the screen
 <img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/2aaf7bec-444f-4ac2-a070-28032dccd53b" />
 <br />
 <br />
+Select Windows Administrative Tools
 <img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/103eaf39-0549-4011-9047-d475d4585fdc" />
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Open Active Directory Users and Computers:  <br/>
 <img width="1916" height="1031" alt="image" src="https://github.com/user-attachments/assets/f15d819f-6f90-4e2b-ab19-3f5d6505f24d" />
 <br />
 <br />
