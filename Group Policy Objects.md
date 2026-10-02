@@ -6,6 +6,7 @@ This guide walks through creating and configuring a password policy for a domain
 
 <h2>walk-through</h2>
 <p 
+  
 Click Search in the bottom-left corner of the screen: <br/>
 <img width="1917" height="1038" alt="image" src="https://github.com/user-attachments/assets/57b24893-57f9-4930-8397-6f98e3a7aee8" />
 <br />
